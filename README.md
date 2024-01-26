@@ -5,7 +5,7 @@ This is the code for the machine learning project "Using Machine Learning models
 
 ## Objective
 
-The objective of this project is to develop and implement a series of predictive models using machine learning techniques, with a focus on forecasting the concentration of Nitrogen Dioxide (NO2) in the surrounding area of the Eiffel Tower using statistical models:
+The objective of this project is to develop and implement a series of predictive models using machine learning techniques, with a focus on forecasting the concentration of Nitrogen Dioxide (NO2) in the surrounding area of the Eiffel Tower using the models:
 - ARIMA
 - Prophet
 - RNN
