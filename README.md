@@ -23,5 +23,5 @@ The preprocessing is done in the [air-quality-cleaning.ipynb](./air-quality-clea
 - To run Prophet, please run the [prophet.ipynb](./prophet.ipynb) notebook.
 - To run RNN models, please run the [rnn.ipynb](./rnn.ipynb) notebook.
 - To run LSTM models:
--- For univariate models, run the [LSTM-univar.ipynb](./LSTM-univar.ipynb) notebook.
--- For multivariate models, run the [LSTM-multivar.ipynb](./LSTM-multivar.ipynb) notebook.
+  - For univariate models, run the [LSTM-univar.ipynb](./LSTM-univar.ipynb) notebook.
+  - For multivariate models, run the [LSTM-multivar.ipynb](./LSTM-multivar.ipynb) notebook.
