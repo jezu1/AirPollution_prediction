@@ -1,7 +1,7 @@
 # AirPollution_prediction
 Predict air pollution around Eiffel Tower
 
-This is the code for the machine learning project "Using Machine Learning models to predict air pollution around the Eiffel Tower" by [Adina Bondoc](adina-faye.bondoc@student-cs.fr) and [Jezuela Geg](jezuela.gega@student-cs.fr) as part of our Machine Learning course at Centrale Supelec, Paris Sacely, supervised by Tom Dupuis.
+This is the code for the machine learning project "Using Machine Learning models to predict air pollution around the Eiffel Tower" by [Adina Bondoc](mailto:adina-faye.bondoc@student-cs.fr) and [Jezuela Geg](mailto:jezuela.gega@student-cs.fr) as part of our Machine Learning course at Centrale Supelec, Paris Sacely, supervised by Tom Dupuis.
 
 ## Objective
 
