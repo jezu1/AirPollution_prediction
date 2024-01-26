@@ -19,9 +19,9 @@ The code was run in Google Colab.
 
 The preprocessing is done in the [air-quality-cleaning.ipynb](./air-quality-cleaning.ipynb) notebook.
 
-To run ARIMA, please run the [stat-model.ipynb](./stat-model.ipynb) notebook.
-To run Prophet, please run the [prophet.ipynb](./prophet.ipynb) notebook.
-To run RNN models, please run the [rnn.ipynb](./rnn.ipynb) notebook.
-To run LSTM models:
-- For univariate models, run the [LSTM-univar.ipynb](./LSTM-univar.ipynb) notebook.
-- For multivariate models, run the [LSTM-multivar.ipynb](./LSTM-multivar.ipynb) notebook.
+- To run ARIMA, please run the [stat-model.ipynb](./stat-model.ipynb) notebook.
+- To run Prophet, please run the [prophet.ipynb](./prophet.ipynb) notebook.
+- To run RNN models, please run the [rnn.ipynb](./rnn.ipynb) notebook.
+- To run LSTM models:
+-- For univariate models, run the [LSTM-univar.ipynb](./LSTM-univar.ipynb) notebook.
+-- For multivariate models, run the [LSTM-multivar.ipynb](./LSTM-multivar.ipynb) notebook.
